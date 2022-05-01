@@ -1,2 +1,0 @@
-# epiqproject
-personal use only
